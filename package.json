@@ -1,0 +1,19 @@
+{
+    "name" : "zc"
+  , "description" : "Simple zencoder implementation for node"
+  , "tags" : ["web", "video", "browser", "javascript"]
+  , "version" : "0.0.1"
+  , "author" : "Adam Christian <adam.christian@gmail.com>"
+  , "repository" :
+    { "type" : "git"
+    , "url" : "https://github.com/admc/zc.git"
+    }
+  , "bugs" :
+    { "url" : "https://github.com/admc/zc/issues" }
+  , "engines" : ["node"]
+  , "main" : "./lib/main"
+  , "directories" : { "lib" : "./lib" }
+  , "dependencies" : {
+    "request" : "latest"
+  }
+}
