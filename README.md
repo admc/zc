@@ -7,7 +7,7 @@ http://nodejs.org/#download
 ## Install
 
 <pre>
-npm install zencoder-js
+npm install zc
 </pre>
 
 ## Authors
